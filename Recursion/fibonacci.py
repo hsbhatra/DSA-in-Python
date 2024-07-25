@@ -1,9 +1,12 @@
 def fibonacci(n):
+    fibonacci_series = []
     if n <=1:
-        return n
+        fibonacci_series.insert(0, n)
+        return fibonacci_series
     else:
-        return fibonacci(n-1) + fibonacci(n-2)
+        fibonacci_series.insert(0, fibonacci(n-1) + fibonacci(n-2))
+        return fibonacci_series
 
-print(fibonacci(8))
+print(fibonacci(5))
     
 

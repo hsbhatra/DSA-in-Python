@@ -1,0 +1,180 @@
+List of Topics with Sub-Topics and Practice Questions
+
+1. Arrays
+# Sub-Topics:
+Basic operations (traversal, insertion, deletion)
+Two-pointer technique
+Sliding window technique
+Prefix sums
+
+# Practice Questions:
+Easy:
+1. Find the maximum and minimum elements in an array.
+2. Reverse an array.
+
+Medium:
+3. Find the subarray with the maximum sum (Kadane's algorithm).
+4. Move all zeroes to the end of an array.
+
+Hard:
+5. Find the longest subarray with a given sum.
+6. Median of two sorted arrays.
+
+
+
+
+
+
+2. Linked Lists
+# Sub-Topics:
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+
+# Practice Questions:
+Easy:
+Reverse a linked list.
+Detect a cycle in a linked list.
+
+Medium:
+3. Merge two sorted linked lists.
+4. Remove the N-th node from the end of the list.
+
+Hard:
+5. Reverse nodes in k-group.
+6. Copy list with random pointer.
+
+
+
+
+
+3. Stacks
+
+# Sub-Topics:
+Stack implementation using arrays and linked lists
+Applications of stacks (infix to postfix conversion, postfix evaluation)
+
+# Practice Questions:
+Easy:
+Implement a stack using an array.
+Check for balanced parentheses.
+
+Medium:
+3. Implement a stack using two queues.
+4. Next Greater Element.
+
+Hard:
+5. Design a stack that supports getMin() in O(1) time.
+
+
+
+
+
+4. Queues
+# Sub-Topics:
+Queue implementation using arrays and linked lists
+Circular Queue
+Deque (Double-ended Queue)
+
+# Practice Questions:
+Easy:
+Implement a queue using an array.
+Implement a circular queue.
+
+Medium:
+3. Implement a deque.
+4. Sliding window maximum.
+
+Hard:
+5. Design a hit counter.
+
+
+
+
+
+5. Trees
+# Sub-Topics:
+Binary Tree
+Binary Search Tree
+Tree Traversals (Inorder, Preorder, Postorder)
+Balanced Trees (AVL, Red-Black)
+
+Practice Questions:
+Easy:
+Implement tree traversals.
+Find the height of a binary tree.
+
+Medium:
+3. Check if a tree is balanced.
+4. Lowest Common Ancestor of a Binary Tree.
+
+Hard:
+5. Serialize and Deserialize a Binary Tree.
+
+
+
+
+
+6. Graphs
+# Sub-Topics:
+Representation (Adjacency Matrix, Adjacency List)
+Graph Traversal (BFS, DFS)
+Shortest Path (Dijkstra, Bellman-Ford)
+Minimum Spanning Tree (Kruskal, Prim)
+
+# Practice Questions:
+Easy:
+Implement BFS and DFS.
+Detect a cycle in an undirected graph.
+
+Medium:
+3. Find the shortest path in a weighted graph.
+4. Find the number of islands.
+
+Hard:
+5. Implement a topological sort.
+6. Find the longest path in a Directed Acyclic Graph (DAG).
+
+
+
+
+
+7. Dynamic Programming
+# Sub-Topics:
+Basic Problems (Fibonacci, Coin Change)
+Advanced Problems (Longest Increasing Subsequence, 0/1 Knapsack)
+
+# Practice Questions:
+Easy:
+Fibonacci number using DP.
+Climbing Stairs.
+
+Medium:
+3. Longest Common Subsequence.
+4. Coin Change problem.
+
+Hard:
+5. Edit Distance.
+6. Longest Palindromic Subsequence.
+
+
+
+
+
+8. Sorting and Searching
+# Sub-Topics:
+Basic Sorting (Bubble, Selection, Insertion)
+Advanced Sorting (Merge, Quick, Heap)
+Searching Algorithms (Linear, Binary)
+# Practice Questions:
+Easy:
+Implement Bubble Sort.
+Binary Search.
+
+Medium:
+3. Merge Sort.
+4. Quick Sort.
+
+Hard:
+5. Heap Sort.
+6. Search in a rotated sorted array.
